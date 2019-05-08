@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project2Image.png
+image: images/RCboat.jpg
 title:    RC Boat Project
 permalink: projects/bankdatabase
 # All dates must be YYYY-MM-DD format!
