@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/SolidWorksBoat.jpg
 title: Autonomous Boat
-permalink: projects/dormsecurity
+permalink: projects/autonomousBoat
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
