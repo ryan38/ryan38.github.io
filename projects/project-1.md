@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/RCboat.jpg
 title:    RC Boat Project
-permalink: projects/bankdatabase
+permalink: projects/RCboat
 # All dates must be YYYY-MM-DD format!
 date: 2015-05-01
 labels:
