@@ -13,5 +13,5 @@ labels:
   - Boat Construction
 summary: The purpose of this project was to design and build a remote control boat that would collect data from the ocean to provide us a better understanding of what was happening underwater. Different sensors and a camera was used to collect the data. 
 ---
-<img class="ui right floated circular image" src="../images/myPic.jpg" style="max-width: 200px;" style="max-height: 200px;"/><br/>
+<img class="ui right floated circular image" src="../images/myPic.png" style="max-width: 200px;" style="max-height: 200px;"/><br/>
 
