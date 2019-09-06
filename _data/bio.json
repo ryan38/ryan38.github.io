@@ -29,10 +29,20 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Art",
       "keywords": [
-        "Art",
-        "Gaming",
+        "Art"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Games"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
         "Music"
       ]
     },
