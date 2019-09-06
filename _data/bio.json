@@ -6,7 +6,7 @@
     "email": "ryan38@hawaii.edu",
     "phone": "808-781-4442",
     "website": "https://ryan38.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
       "address": "87-1042 kaipoi st.",
       "postalCode": "96792",
@@ -31,8 +31,9 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Art",
+        "Gaming",
+        "Music"
       ]
     },
   ],
@@ -62,7 +63,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2019)",
+      "area": "Computer Engineering (expected Fall, 2019)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
