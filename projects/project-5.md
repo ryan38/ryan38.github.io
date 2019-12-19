@@ -14,4 +14,4 @@ summary: Warrior Jam is a website used by students to find and play music with o
 ---
 <img class="ui right floated rounded image" src="/images/WarriorJam.png" style="max-width: 200px;" style="max-height: 400px;"/>
 
-This project was designed for students to find other fellow musicians and set up an event to play music together. 
+This project was designed for students to find other fellow musicians and set up events to play music together. 
